@@ -29,12 +29,10 @@ export default function Header() {
             )
         })
     }
-    <p className='text-sm'></p>
 </div>
     <section className='w-full min-h-[60px] flex flex-col items-center myBgColour sticky top-0  poppins-light'>
 
-
-   <div className='flex lg:hidden justify-between w-full items-center mx-6'>
+   <div className='flex lg:hidden justify-between w-full min-h-[60px] items-center mx-6'>
     <div>
             <img src="./image/logo.png" alt="logo image" 
             className='w-[90px]' />
