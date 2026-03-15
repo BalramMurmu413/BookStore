@@ -1,7 +1,4 @@
-import { BiSolidOffer } from "react-icons/bi";
-import { GiEarthCrack } from "react-icons/gi";
-import { SlRocket } from "react-icons/sl";
-import { SiHotwire } from "react-icons/si";
+
 
 
 
